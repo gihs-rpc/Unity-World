@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 15
-  productGUID: 080f13919f2f03045a074bd50bff6420
+  productGUID: 332829dd9ad2cd040b251d32e2f9f3c8
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -168,11 +168,7 @@ PlayerSettings:
   StripUnusedMeshComponents: 0
   VertexChannelCompressionMask: 4054
   iPhoneSdkVersion: 988
-<<<<<<< HEAD
-  iOSTargetOSVersionString: 7.0
-=======
   iOSTargetOSVersionString: 8.0
->>>>>>> 164cca908faa6947c9243af8f61b2348019c1e47
   tvOSSdkVersion: 0
   tvOSRequireExtendedGameController: 0
   tvOSTargetOSVersionString: 9.0
@@ -539,20 +535,12 @@ PlayerSettings:
   webGLAnalyzeBuildSize: 0
   webGLUseEmbeddedResources: 0
   webGLCompressionFormat: 1
-<<<<<<< HEAD
-=======
   webGLLinkerTarget: 1
->>>>>>> 164cca908faa6947c9243af8f61b2348019c1e47
   scriptingDefineSymbols:
     1: CROSS_PLATFORM_INPUT
     4: CROSS_PLATFORM_INPUT;MOBILE_INPUT
     7: CROSS_PLATFORM_INPUT;MOBILE_INPUT
     14: MOBILE_INPUT
-<<<<<<< HEAD
-    17: MOBILE_INPUT
-    20: MOBILE_INPUT
-=======
->>>>>>> 164cca908faa6947c9243af8f61b2348019c1e47
   platformArchitecture: {}
   scriptingBackend: {}
   il2cppCompilerConfiguration: {}
